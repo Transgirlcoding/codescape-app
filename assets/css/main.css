@@ -96,4 +96,5 @@ h1{
   .h1_text{
     padding: 20em;
     font-size: 30em;
+    z-index: 1;
   }
