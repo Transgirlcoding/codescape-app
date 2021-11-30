@@ -17,6 +17,7 @@ header{
 }
 h1{
     padding-right: .125em;
+    text-align: center;
 }
 .menu {
     background-color: transparent;
