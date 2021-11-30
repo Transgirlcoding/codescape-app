@@ -15,3 +15,6 @@ header{
     padding: .7em;
     display: flex;
 }
+h1{
+    padding-right: .125em;
+}
