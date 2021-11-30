@@ -13,4 +13,5 @@ body{
 header{
     background-color: rgb(42, 44, 44);
     padding: .7em;
+    display: flex;
 }
