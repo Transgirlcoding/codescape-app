@@ -92,3 +92,8 @@ h1{
     width: 100%;
     margin-top: 0;
   }
+
+  .h1_text{
+    padding: 20em;
+    font-size: 30em;
+  }
