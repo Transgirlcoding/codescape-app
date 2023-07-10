@@ -34,7 +34,8 @@
   --section-3-bg-colour: #0f1012;
   --section-4-bg-colour: #111114;
   --body-bg-colour: #121212;
-  --nav-footer-bg-colour: #131418;
+  --nav-footer-bg-colour: rgb(42, 44, 44);
+  ---nav-footer-bg-colour: #131418;
   --nav-text-colour: #f2f5f7;
   --hamburger-icon-colour: #f2f5f7;
   --card-bg-colour: #262626;
@@ -647,7 +648,7 @@ footer {
   width: 100vw;
   height: auto;
   margin-left: 0;
-  bottom: 60px;
+  bottom: 40px;
   color: var(--footer-link-colour);
   /*Styling logo*/
 }
@@ -754,8 +755,8 @@ footer .footer_logo {
   margin-right: 0;
 }
 footer .footer_logo img {
-  height: 5rem;
-  width: 5rem;
+  height: 8rem;
+  width: 8rem;
 }
 @media screen and (max-width: 800px) {
   footer .footer_logo {
